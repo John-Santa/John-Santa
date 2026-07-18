@@ -9,9 +9,7 @@
 </p>
 
 <p align="center">
-  Backend Engineer enfocado en resolver problemas complejos con <b>código limpio, mantenible</b> y patrones de diseño.
-  <br/>
-  Actualmente expandiendo mi terreno hacia la <b>arquitectura de software</b> y <b>DevOps</b> para construir y desplegar sistemas altamente escalables.
+  Diseño y construyo el lado del servidor de sistemas que escalan — con código que otros pueden mantener.
 </p>
 
 ---
@@ -60,12 +58,7 @@
 ### 📊 Mis estadísticas de GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=John-Santa&show_icons=true&count_private=true&title_color=00ADD8&icon_color=6DB33F&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" alt="Estadísticas de GitHub"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=John-Santa&background=0d1117&border=30363d&stroke=30363d&ring=00ADD8&fire=00ADD8&currStreakNum=c9d1d9&currStreakLabel=00ADD8&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="Racha de contribuciones"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-Santa&layout=compact&langs_count=8&title_color=00ADD8&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" alt="Lenguajes más usados"/>
+  <img src="./github-metrics.svg" alt="Estadísticas de GitHub de John Santa"/>
 </p>
 
 ---
@@ -76,13 +69,5 @@
 - **Clasificador de Enlaces (Telegram)** — Herramienta automatizada para capturar, procesar y categorizar links de redes sociales (Facebook, Instagram, TikTok) compartidos vía Telegram, organizándolos dinámicamente por área y ubicación geográfica.
 
 ---
-
-### 📫 Cómo contactarme
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/john-santa/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
 
 <p align="center"><i>«Código limpio, sistemas escalables, aprendizaje continuo.»</i></p>
